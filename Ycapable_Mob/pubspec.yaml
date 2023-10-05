@@ -1,0 +1,34 @@
+name: Ycapable_Mob
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.1.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Add your other dependencies here
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/user.png
+    - assets/yg.png
+    - assets/right.png
+    - assets/planning.png
+    - assets/s.jpg
+    - assets/sane.jpg
+    - assets/c.png
+    - assets/knowledge.png
+    - assets/training.png
+    - assets/y.png
+    - assets/cali.jpg
+    - assets/next.png
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
