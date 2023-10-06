@@ -1,5 +1,5 @@
-![Young&Capable Logo](![youngcapable-logo](https://github.com/KagontleBooysen/Mobile_App-Development/assets/106469425/946fdfb0-5137-40a6-9340-94fa80504d36)
- )
+![youngcapable-logo](https://github.com/KagontleBooysen/Mobile_App-Development/assets/106469425/946fdfb0-5137-40a6-9340-94fa80504d36)
+ 
 
 
 
