@@ -1,13 +1,10 @@
 ![youngcapable-logo](https://github.com/KagontleBooysen/Mobile_App-Development/assets/106469425/946fdfb0-5137-40a6-9340-94fa80504d36)
 
 
-![youngmain](https://github.com/KagontleBooysen/Mobile_App-Development/assets/106469425/82cc6770-12df-4476-9414-cea8a528184e)
-
 <table>
   <tr>
     <td><img src=" https://github.com/KagontleBooysen/Mobile_App-Development/assets/106469425/82cc6770-12df-4476-9414-cea8a528184e" alt="Image 1"></td>
-    <td><img src=" https://github.com/KagontleBooysen/Mobile_App-Development/assets/106469425/fc21720c-4d08-4b93-82e3-17172bc5c953" alt
-="Image 2"></td>
+    <td><img src=" https://github.com/KagontleBooysen/Mobile_App-Development/assets/106469425/fc21720c-4d08-4b93-82e3-17172bc5c953" alt="Image 2"></td>
   </tr>
 </table>
 
