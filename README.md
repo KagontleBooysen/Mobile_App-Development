@@ -3,7 +3,7 @@
 
 <table>
   <tr>
-    <td><img src="assets/y " alt="Image 1"></td>
+    <td><img src="assets/y.png" alt="Image 1"></td>
     <td><img src=" https://github.com/KagontleBooysen/Mobile_App-Development/assets/106469425/fc21720c-4d08-4b93-82e3-17172bc5c953" alt="Image 2"></td>
   </tr>
 </table>
