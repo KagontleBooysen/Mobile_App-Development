@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text('My App'),
+          title: Text('Your Class'),
         ),
         body: SingleChildScrollView(
           child: Column(
@@ -40,18 +40,6 @@ class MyApp extends StatelessWidget {
                 margin: EdgeInsets.only(top: 16.0),
               ),
 
-              // Profile User Image (Centered)
-              Container(
-                child: Center(
-                  child: Image.asset(
-                    'assets/user_profile_image.png', // Replace with your user profile image path
-                    width: 90.0,
-                    height: 90.0,
-                    fit: BoxFit.contain,
-                  ),
-                ),
-                margin: EdgeInsets.only(top: 16.0),
-              ),
 
               // Rest of your layout components...
               // Text Views, Buttons, Tab Bar, etc.
